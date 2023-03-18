@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\김시완\Desktop\금오공대\2학년 1학기(2023)\C++프로그래밍\hw1\main.cpp(44,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  hw1.vcxproj -> C:\Users\김시완\Desktop\금오공대\2학년 1학기(2023)\C++프로그래밍\hw1\Debug\hw1.exe
